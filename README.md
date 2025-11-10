@@ -10,7 +10,7 @@ The pipeline extracts raw movie data from a CSV file, performs transformations s
 To build a reusable data pipeline that reads raw data from CSV, transforms it for analytics, and stores it into a relational database.
 
 
-###**🧰 Tech Stack**
+### **🧰 Tech Stack**
 
 **Category** -  Technology
 
@@ -27,9 +27,9 @@ To build a reusable data pipeline that reads raw data from CSV, transforms it fo
 **Version Control**  -  Git & GitHub
 
 
-##**⚙️ Setup Instructions**
+## **⚙️ Setup Instructions**
 
-###**1️⃣ Prerequisites**
+### **1️⃣ Prerequisites**
 
 Make sure you have these installed:
 
@@ -39,12 +39,12 @@ Make sure you have these installed:
 
 3)Git
 
-###**2️⃣ Clone this repository**
+### **2️⃣ Clone this repository**
 
 git clone https://github.com/KitSu-hub/Basic-ETL-from-CSV-to-MySQL.git
 cd etl-movies-project
 
-###**3️⃣ Set up MySQL**
+### **3️⃣ Set up MySQL**
 
 1)Open XAMPP → Start Apache and MySQL.
 
@@ -52,7 +52,7 @@ cd etl-movies-project
 
 3)Create a new database named "etl_db".
 
-###**4️⃣ Install dependencies**
+### **4️⃣ Install dependencies**
 
 1)pandas
 
@@ -60,14 +60,14 @@ cd etl-movies-project
 
 3)pymysql
 
-###**6️⃣ Run the ETL pipeline**
+### **6️⃣ Run the ETL pipeline**
 
 Now run the main.ipynb file
 
 **NOTE:** Make sure Database Connection details are same as your local Database
 
 
-##**👤 Author**
+## **👤 Author**
 
 **Sai Krishna Reddy Bollampally**
 
