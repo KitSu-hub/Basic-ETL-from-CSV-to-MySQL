@@ -12,19 +12,19 @@ To build a reusable data pipeline that reads raw data from CSV, transforms it fo
 
 **🧰 Tech Stack**
 
-**Category               Technology**
+**Category** -  Technology
 
-Language	              Python 3.x
+**Language**  - Python 3.x
 
-Data Processing	        Pandas
+**Data Processing**  - Pandas
 
-Database	              MySQL (via XAMPP)
+**Database**  -  MySQL (via XAMPP)
 
-ORM / Connector	        SQLAlchemy, PyMySQL
+**ORM / Connector**	 - SQLAlchemy, PyMySQL
 
-IDE	                    VS Code / Jupyter / Colab
+**IDE**  -  VS Code / Jupyter / Colab
 
-Version Control	        Git & GitHub
+**Version Control**  -  Git & GitHub
 
 
 **⚙️ Setup Instructions**
