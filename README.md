@@ -10,7 +10,7 @@ The pipeline extracts raw movie data from a CSV file, performs transformations s
 To build a reusable data pipeline that reads raw data from CSV, transforms it for analytics, and stores it into a relational database.
 
 
-### **🧰 Tech Stack**
+## **🧰 Tech Stack**
 
 **Category** -  Technology
 
