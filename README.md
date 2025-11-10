@@ -3,9 +3,9 @@ This project demonstrates a complete ETL (Extract, Transform, Load) data enginee
 
 The pipeline extracts raw movie data from a CSV file, performs transformations such as data cleaning, deduplication, and genre extraction, and then loads the processed data into a MySQL database.
 
-##**🧩 Project Overview**
+## **🧩 Project Overview**
 
-###**Goal:**
+### **Goal:**
 
 To build a reusable data pipeline that reads raw data from CSV, transforms it for analytics, and stores it into a relational database.
 
